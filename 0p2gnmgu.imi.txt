@@ -1,0 +1,20 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   FINAL_CS273_FINAL/Final/Debug/Final.exe
+#	new file:   FINAL_CS273_FINAL/Final/Debug/Final.ilk
+#	new file:   FINAL_CS273_FINAL/Final/Debug/Final.pdb
+#
+# Untracked files:
+#	FINAL_CS273_FINAL/Final/Final.opensdf
+#	FINAL_CS273_FINAL/Final/Final.sdf
+#	FINAL_CS273_FINAL/Final/Final.sln
+#	FINAL_CS273_FINAL/Final/Final.v12.suo
+#	FINAL_CS273_FINAL/Final/Final/
+#
+
