@@ -29,6 +29,12 @@ int main()
 			std::string name;
 			std::cin >> name;
 
+			name[0] = toupper(name[0]);
+			for (int i = 1; i < name.size(); i++)
+			{
+				name[i] = tolower(name[i]);
+			}//ensures that any variation on name is recognized
+
 			hospital.findPatient(name);
 		}
 	}
